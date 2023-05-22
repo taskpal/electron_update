@@ -1,1 +1,1 @@
-# electron_update
+# TaskPal demo
